@@ -32,6 +32,6 @@ function main()
         document.body.appendChild(p4)
     }
     function go(){
-        window.location.href = "https://cyberunicorns.github.io/Intro-CTF-Challenges/c2/secrt.html";
+        window.location.href = "https://cyberunicorns.github.io/Intro-CTF-Challenges-2023/c2/secret.html";
     }
 }
