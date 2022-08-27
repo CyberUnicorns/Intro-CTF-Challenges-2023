@@ -8,7 +8,7 @@ Welcome back to another year of CyberUnicorns, the NCSSM Cybersecurity Club! Ope
 
 ### [Challenge 2](https://github.com/CyberUnicorns/Intro-CTF-Challenges-2023/tree/main/ScrambledLetters) - Scrambled Letters
 
-### [Challenge 3](https://github.com/CyberUnicorns/Intro-CTF-Challenges-2023/tree/main/c2) - Hidden Site
+### [Challenge 3](https://cyberunicorns.github.io/Intro-CTF-Challenges-2023/administrative/logistics/clubPlanning/youshouldNOTbehere/files/) - Hidden Site
 
 ## Hard Challenges:
 
