@@ -4,7 +4,7 @@ Welcome back to another year of CyberUnicorns, the NCSSM Cybersecurity Club! Ope
 
 ## Easy Challenges:
 
-### [Challenge 1](https://github.com/CyberUnicorns/Intro-CTF-Challenges-2023/tree/main/CookieMonster) - CookieMonster
+### [Challenge 1](https://cyberunicorns.github.io/Intro-CTF-Challenges-2023/CookieMonster/) - CookieMonster
 
 ### [Challenge 2](https://github.com/CyberUnicorns/Intro-CTF-Challenges-2023/tree/main/ScrambledLetters) - Scrambled Letters
 
