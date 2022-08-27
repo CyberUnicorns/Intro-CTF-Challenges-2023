@@ -1,0 +1,1 @@
+# Look. I don't know how many times I need to tell you that this territory is not something you should be messing around in. Like if you got here through the url then ok fine but go back this isn't challenge related, if you got here through github you're just doing it wrong. Like sorry to break it but you're not supposed to get this far.
