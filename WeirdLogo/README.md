@@ -4,4 +4,4 @@ This is a hard one. Our engineers have spent hours trying to figure out what's h
 
 ![](https://i.imgur.com/Kf88lL1.jpg)
 
-**Hint**: there isn't anything hidden visually, it's something within the image
+> **Hint**: there isn't anything hidden visually, it's something within the image
