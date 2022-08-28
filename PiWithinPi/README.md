@@ -11,3 +11,5 @@ You have found a cool file! (if you haven't... well head back to the zip challen
 > **Hint 4**: See the sources document! (and scroll down)
 
 > **Hint 5**: Still stuck? Try posting in #cybersecurity-discussion or ask Jolie/Ganning! OR come to one of our future meetings where we cover this concept! :D
+
+Bonus points if you can find the shortcut :O
