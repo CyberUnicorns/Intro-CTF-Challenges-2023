@@ -24,7 +24,7 @@ function main() {
         }       
     }
     function go() {
-        window.location.href = "https://cyberunicorns.github.io/Intro-CTF-Challenges-2023/c2/secret.html";
+        window.location.href = "https://cyberunicorns.github.io/Intro-CTF-Challenges-2023/administrative/logistics/clubPlanning/youshouldNOTbehere/files/secret.html";
     }
 
 }
