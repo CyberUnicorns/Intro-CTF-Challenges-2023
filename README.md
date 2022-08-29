@@ -19,3 +19,5 @@ Welcome back to another year of CyberUnicorns, the NCSSM Cybersecurity Club! Ope
 ### [Challenge 6](https://github.com/CyberUnicorns/Intro-CTF-Challenges-2023/tree/main/UndecodableChain) - Undecodable Chain
 
 ### [Challenge 7 (mega challenge!)](https://github.com/CyberUnicorns/Intro-CTF-Challenges-2023/tree/main/ZippedUp) - Zipped Up
+
+### [Challenge 8](https://github.com/CyberUnicorns/Intro-CTF-Challenges-2023/tree/main/PhotoMessage) - Photo Message
